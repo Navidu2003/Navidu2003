@@ -14,7 +14,7 @@
 - 💡 Passionate about building **Production-Grade Deterministic Logic Engines** and robust **Machine Learning Pipelines**.
 - 🌱 Actively diving deep into **Supervised Learning, Recommender Systems, and Algorithmic Optimization**.
 - 💬 Ask me about **Python, K-Nearest Neighbors (KNN), Scikit-Learn, and O(1) Hash Map Optimization**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOUR-PROFILE-HERE) | [Email](mailto:YOUR-EMAIL-HERE) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/navidu-madushanka-6991873a4/) | [Email](mailto:madishankanavidu1@gmail.com)
 - ⚡ Fun fact: I love structuring algorithms to run in constant time $O(1)$!
 
 ---
